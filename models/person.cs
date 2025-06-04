@@ -10,9 +10,10 @@ namespace PetCareSystem.Models
             Name = name;
             ContactNumber = contact;
         }
+
         public virtual void DisplayInfo()
         {
-            COnsole.WriteLine(&"Name: {Name}, Contact: {ContactNumber}");
+            Console.WriteLine($"Name: {Name}, Contact: {ContactNumber}");
         }
     }
 }
