@@ -1,4 +1,5 @@
 # 🐾 PetCare Management System
+# Beginner Level
 
 A simple console-based **Object-Oriented Programming (OOP)** project in **C#** that simulates a pet care clinic. The system manages pet owners, their pets, and clinic appointments for services like grooming, vaccination, and checkups.
 
